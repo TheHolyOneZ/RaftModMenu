@@ -9,7 +9,7 @@ Step 1: Launch the Injector
 
 Step 2: Start Raft
 - Launch the game Raft and stay on the main menu
-- Go back to SharkMonoInjector (smi_gui.exe)
+- Go back to SharpMonoInjector (smi_gui.exe)
 - Click Refresh to detect the Raft game process
 - Click the three dots (...) next to "Assembly to inject"
 - Find and select the RaftMod.dll file (your mod menu)
