@@ -44,7 +44,7 @@ size: 90KB
 # Features 
 
 ## Items
-- Spawn all items  
+- Spawn all items (Includes Buildables, Blueprints etc.)
 - Scrape all items (function)  
 - Custom spawn amount  
 
