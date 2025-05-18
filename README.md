@@ -40,7 +40,7 @@ Step 5: Open the Mod Menu
 discord: https://discord.gg/sWKrVAU7Zh
 size: 90KB
 
-
+Notes: This mod menu uses Unity’s built-in UI system instead of third-party libraries, which keeps it lightweight and safer to run. Most features are built by reusing Raft’s internal code, which makes the menu more efficient, smoother, and better integrated with the game.
 
 # Features 
 
