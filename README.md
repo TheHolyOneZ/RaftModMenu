@@ -1,4 +1,6 @@
-# IMPORTANT: I accidentally deleted some functions, so some buttons mentioned in the features below are currently missing. Please be patient — I will add them back in the update on 19.05.
+# IMPORTANT
+
+ I accidentally deleted some functions, so some buttons mentioned in the features below are currently missing. Please be patient — I will add them back in the update on 19.05.
 
 
 # RaftModMenu
